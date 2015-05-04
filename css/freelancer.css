@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background-image:url("/Users/hannahswieczkowski/Desktop/ame294final/img/portfolio/stars.png");
+    background:#000039;
 }
 
 header .container {
